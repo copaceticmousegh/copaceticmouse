@@ -1,13 +1,15 @@
 [project]
 name = "copaceticmouse"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.2"
+description = "Added new subpackage distrributions"
 readme = "README.md"
 authors = [
     { name = "copaceticmouse", email = "copaceticfrog@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.11.2",
+]
 
 [tool.maturin]
 module-name = "copaceticmouse._core"
