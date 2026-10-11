@@ -1,0 +1,9 @@
+/Users/joshuababbidge/copaceticmouse/target/release/deps/once_cell-168ca5a50ce36601.d: /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/lib.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/imp_std.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/race.rs
+
+/Users/joshuababbidge/copaceticmouse/target/release/deps/libonce_cell-168ca5a50ce36601.rlib: /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/lib.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/imp_std.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/race.rs
+
+/Users/joshuababbidge/copaceticmouse/target/release/deps/libonce_cell-168ca5a50ce36601.rmeta: /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/lib.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/imp_std.rs /Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/race.rs
+
+/Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/lib.rs:
+/Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/imp_std.rs:
+/Users/joshuababbidge/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/once_cell-1.21.4/src/race.rs:
