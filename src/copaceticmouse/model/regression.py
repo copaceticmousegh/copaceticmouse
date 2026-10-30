@@ -328,12 +328,22 @@ class LinearRegression:
         }
 
 
-        
+class LinearRegressionModel(nn.Module):
+  def __init__(self, input_dim):
+    super(LinearRegressionModel, self).__init__()
+    # Initialize weights and bias
+    self.weights = nn.Parameter(torch.randn(input_dim, 1))
+    self.bias = nn.Parameter(torch.randn(1))
 
-        
-        
+  def forward(self, x):
+    return x @ self.weights + self.bias
 
+class CauchyLoss(nn.Module):
+  def __init__(self, c=1.0):
+    super(CauchyLoss, self).__init__()
+    self.c = c
 
-
-
-
+  def forward(self, y_pred, y_true):
+    residuals = y_pred - y_true
+    loss = torch.log(1.0 + (residuals / self.c) ** 2)
+    return torch.mean(loss)
